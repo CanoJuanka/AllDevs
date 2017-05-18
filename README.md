@@ -9,6 +9,6 @@ Note: Following the exercise phrase, all entries are String.
 
 This project was developed in java/jsp and bootstraps 3.0
 
-The instrucctions of Pico y Placa were taken of the atm web site "http://www.amt.gob.ec/index.php/pico-placa-homepage.html"
+The instrucctions of Pico y Placa were taken from the atm web site "http://www.amt.gob.ec/index.php/pico-placa-homepage.html"
 
-The format for LicencePlate validation were taken of this web site http://www.forosecuador.ec/forum/aficiones/autos-y-motos/212-placas-de-ecuador-por-provincias
+The format for LicencePlate validation were taken from this web site http://www.forosecuador.ec/forum/aficiones/autos-y-motos/212-placas-de-ecuador-por-provincias
